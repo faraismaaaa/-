@@ -1,0 +1,14 @@
+.block {
+/*
+    height: 250px;
+    width: 250px;
+*/
+    height: 0px;
+    width: 0px;
+    background-color: #8adcdd;
+    border-top: 10px transparent red;
+/*    border-right: 20px solid blue;*/
+    border-right: 10x transparent blue;
+    border-bottom: 10px transparent green;
+    border-left: 10px solid black;
+}
